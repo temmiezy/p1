@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
@@ -15,7 +15,7 @@
 
     <div class="content">
         <h1>Kehinde Afolabi</h1>
-        <img src="img/kehinde-afolabi.jpg">
+        <img src="img/kehinde-afolabi.jpg" alt="kehinde-afolabi">
         <h2>About Me</h2>
         <p>My name is Kehinde Afolabi(Kenny for short) from Chicago Illinois. My interested in web technologies started in my early years
         in college while studying for a degree in Computer Engineering. I started as a web developer using front wnd technologies such as html/css and javascript.
